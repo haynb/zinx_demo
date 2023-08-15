@@ -1,0 +1,7 @@
+{
+  "Name": "heanyang Server v0.2---zinx0.9",
+  "Host": "127.0.0.1",
+  "TcpPort": 8999,
+  "MaxConn": 3,
+  "WorkerPoolSize": 10
+}
